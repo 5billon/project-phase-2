@@ -3,6 +3,7 @@
     "drinks": [
       {
         "title": "Classic Margarita",
+        "time": "5 minutes",
         "ingredients": [
           "2 oz tequila",
           "1 oz lime juice",
@@ -20,6 +21,7 @@
       },
       {
         "title": "Strawberry Mojito",
+        "time": "10 minutes",
         "ingredients": [
           "2 oz white rum",
           "4 fresh strawberries",
@@ -39,6 +41,7 @@
     "breakfast": [
       {
         "title": "Fluffy Pancakes",
+        "time": "20 minutes",
         "ingredients": [
           "1 cup all-purpose flour",
           "2 tbsp sugar",
@@ -60,6 +63,7 @@
       },
       {
         "title": "Avocado Toast",
+        "time": "5 minutes",
         "ingredients": [
           "2 slices of bread",
           "1 ripe avocado",
@@ -79,6 +83,7 @@
     "lunch": [
       {
         "title": "Caprese Salad",
+        "time": "10 minutes",
         "ingredients": [
           "2 ripe tomatoes, sliced",
           "8 oz fresh mozzarella cheese, sliced",
@@ -96,6 +101,7 @@
       },
       {
         "title": "Chicken Caesar Wrap",
+        "time": "15 minutes",
         "ingredients": [
           "2 large tortilla wraps",
           "2 cups cooked chicken breast, shredded",
@@ -116,6 +122,7 @@
     "dinner": [
       {
         "title": "Spaghetti Bolognese",
+        "time": "30 minutes",
         "ingredients": [
           "8 oz spaghetti",
           "1 lb ground beef",
@@ -140,6 +147,7 @@
       },
       {
         "title": "Grilled Salmon with Lemon Butter Sauce",
+        "time": "20 minutes",
         "ingredients": [
           "2 salmon fillets",
           "2 tbsp butter, melted",
@@ -161,6 +169,7 @@
     "dessert": [
       {
         "title": "Chocolate Chip Cookies",
+        "time": "25 minutes",
         "ingredients": [
           "1 cup unsalted butter, softened",
           "1 cup granulated sugar",
@@ -186,6 +195,7 @@
       },
       {
         "title": "Strawberry Shortcake",
+        "time": "30 minutes",
         "ingredients": [
           "2 cups all-purpose flour",
           "1/4 cup granulated sugar",
@@ -211,3 +221,4 @@
     ]
   }
 }
+
